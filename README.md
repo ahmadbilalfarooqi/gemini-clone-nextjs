@@ -26,11 +26,23 @@ Make sure you have the following installed on your machine:
 **Clone this Project**
 
 ```bash
-git clone https://github.com/CodeScrapper1/gemini-clone-nextjs.git
+git clone https://github.com/ahmadbilalfarooqi/gemini-clone-nextjs.git
 cd gemini-clone-nextjs
 ```
 
 **Installation**
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+**Running the Project using NPM**
+
+```bash
+npm run dev
+```
 
 Install dependencies using yarn:
 
